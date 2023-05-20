@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DrawnPlatform
+  - StaticPlatform
+  - Enemy
+  - LOADDATA
+  - LineController
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Platform
+  - DrawnPlatform
+  - Enemy
+  - Background
+  - Paintbrush
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: AspectRatioBars
+    uniqueID: 4063491459
+    locked: 0
+  - name: Drip
+    uniqueID: 375403403
+    locked: 0
+  - name: Background
+    uniqueID: 3911220633
+    locked: 0
+  - name: Platforms
+    uniqueID: 3442520269
+    locked: 0
+  - name: Enemies
+    uniqueID: 4141670237
+    locked: 0
+  - name: Player
+    uniqueID: 4204736171
+    locked: 0
+  - name: UI
+    uniqueID: 674682367
+    locked: 0

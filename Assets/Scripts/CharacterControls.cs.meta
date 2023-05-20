@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 990770f32898d458e83ff1ca4e487048
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - noFriction: {fileID: 6200000, guid: 486764fef29ad3647a293de0c0fcd16a, type: 2}
+  - fullFriction: {fileID: 6200000, guid: 772168a57ec6c4deb84c50159da9ad02, type: 2}
+  - spawn: {instanceID: 0}
+  - m_LeftCollider: {instanceID: 0}
+  - m_RightCollider: {instanceID: 0}
+  - m_BottomCollider: {instanceID: 0}
+  - m_TopCollider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
